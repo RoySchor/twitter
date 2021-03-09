@@ -1,3 +1,4 @@
+![50xj8k](https://user-images.githubusercontent.com/70181314/110413030-2cfba280-805b-11eb-820e-54cb86136543.gif)
 # Project 3 - *Twitter*
 
 **Twitter** is a basic twitter app to read your tweets.
@@ -24,4 +25,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='file:///Users/royschor/Downloads/50xj8k.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![50xj8k](https://user-images.githubusercontent.com/70181314/110413040-32f18380-805b-11eb-8027-f0317f8cf1db.gif)
