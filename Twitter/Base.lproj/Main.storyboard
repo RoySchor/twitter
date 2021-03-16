@@ -176,7 +176,7 @@
                                     <constraint firstAttribute="height" constant="128" id="F6w-W5-fU9"/>
                                     <constraint firstAttribute="width" constant="240" id="zaS-Yv-jn0"/>
                                 </constraints>
-                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
