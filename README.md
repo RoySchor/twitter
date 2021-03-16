@@ -22,9 +22,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgflip.com/gif/51uvg1![51uvg1](https://user-images.githubusercontent.com/70181314/111241577-d26ec300-85d3-11eb-8ecb-828cedbcc76d.gif)
-' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ![51uvg1](https://user-images.githubusercontent.com/70181314/111241640-edd9ce00-85d3-11eb-9ac3-6447107e80f9.gif)
 
 
