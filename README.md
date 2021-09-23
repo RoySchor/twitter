@@ -1,8 +1,6 @@
 # Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
-
-Time spent: **2** hours spent in total
+This is a basic twitter app to view, compose, favorite, and retweet tweets a replica of the real app twitter.
 
 ## User Stories
 
